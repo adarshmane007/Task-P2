@@ -23,6 +23,9 @@ postgres_exporter-0.15.0.linux-amd64.tar.gz
 .bzr/
 .bzrignore
 
+.psql_history
+.my.cnf
+.wget-hsts
 # Ignore backup folder
 Task-P2-clean/
 Task-P2-clean-backup/
