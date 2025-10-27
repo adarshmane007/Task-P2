@@ -1,0 +1,29 @@
+# Ignore large binaries and archives
+prometheus-2.49.1.linux-amd64/
+prometheus-2.49.1.linux-amd64.tar.gz
+node_exporter-1.7.0.linux-amd64/
+node_exporter-1.7.0.linux-amd64.tar.gz
+mysqld_exporter-0.15.0.linux-amd64/
+mysqld_exporter-0.15.0.linux-amd64.tar.gz
+postgres_exporter-0.15.0.linux-amd64/
+postgres_exporter-0.15.0.linux-amd64.tar.gz
+
+# Ignore system and shell history files
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.lesshst
+.mysql_history
+.profile
+.ssh/
+.sudo_as_admin_successful
+.viminfo
+.vim/
+.bzr/
+.bzrignore
+
+# Ignore backup folder
+Task-P2-clean/
+Task-P2-clean-backup/
+
